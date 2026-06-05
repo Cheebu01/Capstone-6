@@ -2,4 +2,4 @@ To address inefficient IT request handling, we designed and implemented an intel
 
 The solution provides a guided, structured, and automated process for submitting IT support requests.
 
-Fig-01 IT Support Request Assistant Icon
+
